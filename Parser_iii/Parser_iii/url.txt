@@ -1,3 +1,0 @@
-cin >> www.google.com
-
-cin>> www.facebook.com
